@@ -10,20 +10,15 @@ check all theme at https://github.com/anuraghazra/github-readme-stats/blob/maste
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- ✨ My main research interests are **5R**: **R**einforcement learning, **R**easoning, and **R**epresentation learning used in **R**obotics, aiming at the **R**eal intelligence. 
+- 🔭 I’m currently working on robot reasoning navigation like CVPR Habitat competition.
+- 🌱 I’m currently learning graph neural networks.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: Reach me through junjialiu@sjtu.edu.cn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💼 I'm currently working as a research intern at Huawei 2012 Central Research Institute.
+- 🎓 I'm also a last year graduate student of Shanghai Jiao Tong University and finding a world-wide PhD position about robot learning now.
 -->
-
-- 🔭 My main research interests are computer vision, computer graphics, multimodal learning, and human–computer interaction. I am especially interested in controllable and interactive image synthesis. 
-
-- ✨ I am currently working on generating 2D images or 3D shapes from multi-modal inputs such as sketches, semantic labels, control vectors, and textual descriptions. 
-
-- 🌱 The ultimate vision of my research is to manifest the physical world through imagination.
-
-- 📫 Find my info at weihaox.com. Reach me through weihaox@outlook.com.
