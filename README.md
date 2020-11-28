@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=weihaox&show_icons=true&theme=default&hide=issues&count_private=true)
+
 <!--
+theme:dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+check all theme at https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 **Skylark0924/Skylark0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +19,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 My main research interests are computer vision, computer graphics, multimodal learning, and human–computer interaction. I am especially interested in controllable and interactive image synthesis. 
+
+- ✨ I am currently working on generating 2D images or 3D shapes from multi-modal inputs such as sketches, semantic labels, control vectors, and textual descriptions. 
+
+- 🌱 The ultimate vision of my research is to manifest the physical world through imagination.
+
+- 📫 Find my info at weihaox.com. Reach me through weihaox@outlook.com.
