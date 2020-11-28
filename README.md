@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=weihaox&show_icons=true&theme=default&hide=issues&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Skylark0924&show_icons=true&theme=default&hide=issues&count_private=true)
 
 <!--
 theme:dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
