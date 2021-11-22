@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skylark0924&show_icons=true&theme=default&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skylark0924&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
 theme:dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
