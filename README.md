@@ -3,6 +3,9 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Skylark0924&show_icons=true&theme=default&hide=issues&count_private=true)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skylark0924)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 theme:dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 check all theme at https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
