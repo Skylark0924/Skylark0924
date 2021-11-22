@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=Skylark0924&show_icons=true&theme=default&hide=issues&count_private=true)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skylark0924&show_icons=true&theme=default&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
