@@ -3,7 +3,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Skylark0924&show_icons=true&theme=default&hide=issues&count_private=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skylark0924&show_icons=true&theme=radical&count_private=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skylark0924&show_icons=true&count_private=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
 
 <!--
