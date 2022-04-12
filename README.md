@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - ✨ My main research interests are **5R**s: **R**einforcement learning, **R**easoning, and **R**epresentation learning used in **R**obotics, aiming at the **R**eal intelligence. 
 - 🔭 I’m currently working on robot reasoning navigation, like CVPR Habitat competition.
 - 🌱 I’m currently learning graph neural networks.
+- 💼 I'm currently working as a research intern at Huawei 2012 Central Research Institute.
+- 🎓 I'm also a last-year graduate student of Shanghai Jiao Tong University and finding a worldwide Ph.D. position in robot learning now.
+- 🌱 I’m currently learning graph neural networks.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -21,9 +24,6 @@ Here are some ideas to get you started:
 
 -->
 
-- ✨ My main research interests are **5R**: **R**einforcement learning, **R**easoning, and **R**epresentation learning used in **R**obotics, aiming at the **R**eal intelligence. 
-- 🔭 I’m currently working on robot reasoning navigation, like CVPR Habitat competition.
-- 🌱 I’m currently learning graph neural networks.
-- 💼 I'm currently working as a research intern at Huawei 2012 Central Research Institute.
-- 🎓 I'm also a last-year graduate student of Shanghai Jiao Tong University and finding a worldwide Ph.D. position in robot learning now.
-- 📫 Reach me through junjialiu@sjtu.edu.cn
+- ✨ My main research interests are **5Rs**: **R**einforcement learning, **R**easoning, and **R**epresentation learning used in **R**obotics, aiming at the **R**eal intelligence. 
+
+- 📫 Reach me through jjliu@mae.cuhk.edu.hk
