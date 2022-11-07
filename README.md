@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 -->
 
 - ✨ My main research interests are **5Rs**: **R**einforcement learning, **R**easoning, and **R**epresentation learning used in **R**obotics, aiming at the **R**eal intelligence. 
+- 🔭 You can also follow my Zhihu blog: [Skylark - Zhihu](https://www.zhihu.com/people/JunjiaLiu)
 
 - 📫 Reach me through jjliu@mae.cuhk.edu.hk
