@@ -9,7 +9,7 @@ check all theme at https://github.com/anuraghazra/github-readme-stats/blob/maste
 
 Here are some ideas to get you started:
 
-- ✨ My main research interests are **5R**s: **R**einforcement learning, **R**easoning, and **R**epresentation learning used in **R**obotics, aiming at the **R**eal intelligence. 
+- ✨ My main research interests are **5R**s: **R**einforcement learning, **R**easoning, and **R**epresentation learning used in **R**obotics, aiming at **R**eal intelligence. 
 - 🔭 I’m currently working on robot reasoning navigation, like CVPR Habitat competition.
 - 🌱 I’m currently learning graph neural networks.
 - 💼 I'm currently working as a research intern at Huawei 2012 Central Research Institute.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 -->
 
-- ✨ My main research interests are **5Rs**: **R**einforcement learning, **R**easoning, and **R**epresentation learning used in **R**obotics, aiming at the **R**eal intelligence. 
+- ✨ My main research interests are **5Rs**: **R**einforcement learning, **R**easoning, and **R**epresentation learning used in **R**obotics, aiming at **R**eal intelligence. 
 - 🔭 You can also follow my Zhihu blog: [Skylark - Zhihu](https://www.zhihu.com/people/JunjiaLiu)
 
 - 📫 Reach me through jjliu@mae.cuhk.edu.hk
